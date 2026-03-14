@@ -21,9 +21,9 @@
 
 | Categoría | Repositorio | Enfoque |
 | :--- | :--- | :--- |
-| 🛡️ **Ofensivo** | [**Offensive-Research**](https://github.com/xalexlopez00/Offensive-Research) | **Windows / Linux** |
+| 🛡️ **Ofensivo** | [**Offensive-Research**](https://github.com/xalexlopez00/Offensive-Research) | Investigación y PoCs |
 | ⚙️ **Sistema** | [**System-Engine**](https://github.com/xalexlopez00/System-Engine) | **Windows / Linux** |
-| 🔬 **Pruebas** | [**Lab-Sandbox**](https://github.com/xalexlopez00/Lab-Sandbox) | **Windows / Linux** |
+| 🔬 **Pruebas** | [**Lab-Sandbox**](https://github.com/xalexlopez00/Lab-Sandbox) | Scripts y Automatización |
 
 ---
 
