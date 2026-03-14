@@ -1,34 +1,23 @@
-# ⚡ xalexlopez00 | Security Researcher & Code Architect 👋
+# ⚡ xalexlopez00 | Laboratorio de Código & Pruebas 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Malware_Analysis_%26_Development-red?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Role-Security_Enthusiast-black?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/Estado-En_Construcción_Constante-orange?style=for-the-badge&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enfoque-Pruebas_y_PoCs-red?style=for-the-badge&logo=linux-foundation" />
 </p>
 
 ---
 
-### 👤 Sobre mí
-Me apasiona desglosar el código hasta sus cimientos. Mi enfoque principal es la **ciberseguridad ofensiva**, el análisis de malware y la creación de herramientas experimentales. Si tiene código, se puede probar; si tiene seguridad, se puede saltar.
+### 🧪 Mi Espacio de Experimentación
+Este perfil es mi cuaderno de bitácora. Aquí subo lo que voy aprendiendo, los scripts que me funcionan y las pruebas que hago sobre **seguridad, malware y automatización**. No busques proyectos terminados, busca código real en crudo.
 
-- 🧬 **Área de Interés:** Desarrollo de Malware (PoC), Ingeniería Inversa y Evasión.
-- 🛠️ **En qué estoy trabajando:** Pruebas de concepto sobre persistencia y scripts de automatización ofensiva.
-- 🔍 **Mi filosofía:** "Para proteger un sistema, primero debes aprender a romperlo".
-- ⚠️ **Nota:** Todo el código en mis repositorios es estrictamente para fines educativos y de investigación (Ethical Hacking).
-
----
-
-### 🛠️ Lab Tools & Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Metasploit-black?style=for-the-badge&logo=metasploit&logoColor=white" />
-</p>
+- 🔬 **¿Qué hay aquí?** Scripts de Python, herramientas de PowerShell, pruebas en C++ y experimentos de evasión.
+- 🛠️ **Flujo de trabajo:** Si algo me sale bien o me parece interesante, lo cuelgo aquí para no perderlo.
+- 🧪 **Laboratorio:** Testeo constante de vulnerabilidades y creación de pequeñas PoCs (Proof of Concepts).
+- ⚠️ **Disclaimer:** Todo lo que ves aquí tiene fines educativos. No me hago responsable del uso que le des a mis experimentos.
 
 ---
 
-### 📊 Actividad en el Laboratorio
+### 📊 Datos del Laboratorio
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xalexlopez00&show_icons=true&theme=radical&hide_border=true&locale=es" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xalexlopez00&layout=compact&theme=radical&hide_border=true&locale=es" width="48%" />
@@ -36,11 +25,13 @@ Me apasiona desglosar el código hasta sus cimientos. Mi enfoque principal es la
 
 ---
 
-### 📁 Repositorios de Investigación
-* 🛡️ **Malware-PoCs:** Análisis y creación de pruebas de concepto de software malicioso.
-* ☣️ **Security-Tools:** Scripts personalizados para auditorías y pentesting.
-* 📚 **Learning-Reversing:** Notas y códigos sobre ingeniería inversa.
+### 📂 Mis Cajones de Código
+* 📁 **[Tests-y-Basura-Util](https://github.com/xalexlopez00):** Scripts sueltos que funcionan y no quiero olvidar.
+* 🛡️ **[Malware-Lab](https://github.com/xalexlopez00):** Investigaciones sobre código ofensivo y defensa.
+* ⚙️ **[Windows-Tweaks](https://github.com/xalexlopez00):** Lo que uso para que mi PC vuele.
+
+---
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=xalexlopez00&color=red&style=flat-square&label=VISTAS+AL+SISTEMA" />
+  <img src="https://komarev.com/ghpvc/?username=xalexlopez00&color=red&style=flat-square&label=VISITAS_AL_LAB" />
 </p>
