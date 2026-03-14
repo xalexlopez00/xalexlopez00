@@ -8,12 +8,20 @@
 ---
 
 ### 🧪 Mi Espacio de Experimentación
-Este perfil es mi cuaderno de bitácora. Aquí subo lo que voy aprendiendo, los scripts que me funcionan y las pruebas que hago sobre **seguridad, malware y automatización**. No busques proyectos terminados, busca código real en crudo.
+Este perfil es mi cuaderno de bitácora. Aquí subo lo que voy aprendiendo, los scripts que me funcionan y las pruebas que hago sobre **seguridad, malware y automatización**.
 
-- 🔬 **¿Qué hay aquí?** Scripts de Python, herramientas de PowerShell y experimentos de evasión.
-- 🛠️ **Flujo de trabajo:** Si algo me sale bien o me parece interesante, lo cuelgo aquí para no perderlo.
-- 🧪 **Laboratorio:** Testeo constante de vulnerabilidades y creación de pequeñas PoCs (Proof of Concepts).
-- ⚠️ **Disclaimer:** Todo lo que ves aquí tiene fines educativos. No me hago responsable del uso que le des a mis experimentos.
+---
+
+### 📂 Índice del Laboratorio
+
+* 📁 [**Lab-Sandbox**](https://github.com/xalexlopez00/Lab-Sandbox)
+  * *Scripts rápidos, automatización de tareas y experimentos en crudo con Python y Bash.*
+* 🛡️ [**Offensive-Research**](https://github.com/xalexlopez00/Offensive-Research)
+  * *Investigación de técnicas de Red Team, PoCs de malware ético y estudios de persistencia.*
+* ⚙️ [**System-Engine**](https://github.com/xalexlopez00/System-Engine)
+  * *Scripts de bajo nivel para optimizar Windows, eliminar telemetría y ajustes de rendimiento.*
+* 🌐 [**Optimización de Red**](https://github.com/xalexlopez00/System-Engine/tree/main/Optimizacion-de-red)
+  * *Acceso directo a herramientas de latencia, limpieza de red y descarga de binarios pesados.*
 
 ---
 
@@ -22,13 +30,6 @@ Este perfil es mi cuaderno de bitácora. Aquí subo lo que voy aprendiendo, los 
   <img src="https://github-readme-stats.vercel.app/api?username=xalexlopez00&show_icons=true&theme=radical&hide_border=true&locale=es" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xalexlopez00&layout=compact&theme=radical&hide_border=true&locale=es" width="48%" />
 </p>
-
----
-
-### 📂 Mis Cajones de Código
-* 📁 [**Lab-Sandbox**](https://github.com/xalexlopez00/Lab-Sandbox): Scripts sueltos, automatizaciones y experimentos rápidos de código.
-* 🛡️ [**Offensive-Research**](https://github.com/xalexlopez00/Offensive-Research): Investigaciones sobre malware, Red Teaming y seguridad ofensiva.
-* ⚙️ [**System-Engine**](https://github.com/xalexlopez00/System-Engine): Optimización extrema de Windows y [**Optimización de Red**](https://github.com/xalexlopez00/System-Engine/tree/main/Optimizacion-de-red).
 
 ---
 
