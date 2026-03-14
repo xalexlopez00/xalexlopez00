@@ -19,11 +19,11 @@
 
 ### 📂 Índice del Laboratorio (Explorador de Proyectos)
 
-| Categoría | Repositorio | Descripción Técnica |
+| Categoría | Repositorio | Enfoque |
 | :--- | :--- | :--- |
-| 🛡️ **Ofensivo** | [**Offensive-Research**](https://github.com/xalexlopez00/Offensive-Research) | Investigación de técnicas de Red Team y PoCs de malware ético. |
-| ⚙️ **Sistema** | [**System-Engine**](https://github.com/xalexlopez00/System-Engine) | Optimización de Windows, eliminación de telemetría y **[Módulo de Red]**(https://github.com/xalexlopez00/System-Engine/tree/main/Optimizacion-de-red). |
-| 🔬 **Pruebas** | [**Lab-Sandbox**](https://github.com/xalexlopez00/Lab-Sandbox) | Scripts rápidos, automatizaciones y experimentos en crudo. |
+| 🛡️ **Ofensivo** | [**Offensive-Research**](https://github.com/xalexlopez00/Offensive-Research) | **Windows / Linux** |
+| ⚙️ **Sistema** | [**System-Engine**](https://github.com/xalexlopez00/System-Engine) | **Windows / Linux** |
+| 🔬 **Pruebas** | [**Lab-Sandbox**](https://github.com/xalexlopez00/Lab-Sandbox) | **Windows / Linux** |
 
 ---
 
