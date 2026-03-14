@@ -1,44 +1,46 @@
-# ⚡ Hola, soy Alex (xalexlopez00) 👋
+# ⚡ xalexlopez00 | Security Researcher & Code Architect 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Perfil-Developer_%26_System_Optimization-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Malware_Analysis_%26_Development-red?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Role-Security_Enthusiast-black?style=for-the-badge&logo=kali-linux" />
 </p>
 
 ---
 
 ### 👤 Sobre mí
-Soy un apasionado de la **optimización de sistemas** y el rendimiento de software. Me enfoco en configurar entornos de trabajo que sean rápidos, limpios y eficientes, eliminando todo lo innecesario para exprimir al máximo el hardware.
+Me apasiona desglosar el código hasta sus cimientos. Mi enfoque principal es la **ciberseguridad ofensiva**, el análisis de malware y la creación de herramientas experimentales. Si tiene código, se puede probar; si tiene seguridad, se puede saltar.
 
-- 🚀 **En qué estoy trabajando:** Automatización de configuraciones de Windows para alto rendimiento.
-- 🛠️ **Mi enfoque:** Menos procesos en segundo plano, menor latencia y mayor productividad.
-- 🔍 **Intereses:** Arquitectura de software, scripts de PowerShell y personalización técnica.
-- 💬 **Pregúntame sobre:** Cómo optimizar tu sistema operativo para desarrollo o gaming.
+- 🧬 **Área de Interés:** Desarrollo de Malware (PoC), Ingeniería Inversa y Evasión.
+- 🛠️ **En qué estoy trabajando:** Pruebas de concepto sobre persistencia y scripts de automatización ofensiva.
+- 🔍 **Mi filosofía:** "Para proteger un sistema, primero debes aprender a romperlo".
+- ⚠️ **Nota:** Todo el código en mis repositorios es estrictamente para fines educativos y de investigación (Ethical Hacking).
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Lab Tools & Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Metasploit-black?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Actividad en el Laboratorio
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xalexlopez00&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xalexlopez00&layout=compact&theme=tokyonight&hide_border=true&locale=es" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xalexlopez00&show_icons=true&theme=radical&hide_border=true&locale=es" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xalexlopez00&layout=compact&theme=radical&hide_border=true&locale=es" width="48%" />
 </p>
 
 ---
 
-### 🛠️ Proyectos Destacados
-* 💻 **Windows Optimization:** Mi colección de ajustes y scripts para un sistema limpio y veloz.
-* 🏗️ **Learning Path:** Repositorios de aprendizaje sobre desarrollo y nuevas tecnologías.
+### 📁 Repositorios de Investigación
+* 🛡️ **Malware-PoCs:** Análisis y creación de pruebas de concepto de software malicioso.
+* ☣️ **Security-Tools:** Scripts personalizados para auditorías y pentesting.
+* 📚 **Learning-Reversing:** Notas y códigos sobre ingeniería inversa.
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=xalexlopez00&color=0078D6&style=flat-square&label=VISTAS+AL+PERFIL" />
+  <img src="https://komarev.com/ghpvc/?username=xalexlopez00&color=red&style=flat-square&label=VISTAS+AL+SISTEMA" />
 </p>
