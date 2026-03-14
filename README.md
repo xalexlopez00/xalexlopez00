@@ -19,11 +19,10 @@
 
 ### 📂 Índice del Laboratorio (Explorador de Proyectos)
 
-| Categoría | Repositorio / Carpeta | Descripción Técnica |
+| Categoría | Repositorio | Descripción Técnica |
 | :--- | :--- | :--- |
 | 🛡️ **Ofensivo** | [**Offensive-Research**](https://github.com/xalexlopez00/Offensive-Research) | Investigación de técnicas de Red Team y PoCs de malware ético. |
-| ⚙️ **Sistema** | [**System-Engine**](https://github.com/xalexlopez00/System-Engine) | Scripts de bajo nivel para optimizar Windows y eliminar telemetría. |
-| 🌐 **Redes** | [**Optimización-de-Red**](https://github.com/xalexlopez00/System-Engine/tree/main/Optimizacion-de-red) | Herramientas de latencia, tráfico y descarga de binarios pesados. |
+| ⚙️ **Sistema** | [**System-Engine**](https://github.com/xalexlopez00/System-Engine) | Optimización de Windows, eliminación de telemetría y **[Módulo de Red]**(https://github.com/xalexlopez00/System-Engine/tree/main/Optimizacion-de-red). |
 | 🔬 **Pruebas** | [**Lab-Sandbox**](https://github.com/xalexlopez00/Lab-Sandbox) | Scripts rápidos, automatizaciones y experimentos en crudo. |
 
 ---
@@ -41,7 +40,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
